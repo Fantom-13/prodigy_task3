@@ -20,3 +20,6 @@ API Endpoints:
 - POST `/api/products` (multipart form-data with `image`)
 - GET `/api/cart`
 - POST `/api/cart`
+
+# thanking prodigy info tech
+#prodigyinfotech
